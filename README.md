@@ -33,7 +33,7 @@ The primary objective of this project is to analyze multi-year PhonePe transacti
 
 -**/Python scripts/**: Python scripts used for data cleaning, data imputation.
 
--**/Dashboard/**: Data visualization and dashboard creation
+-**/PowerBI Dashboard/**: Data visualization and dashboard creation
 
 ## Key business insights - 
 
